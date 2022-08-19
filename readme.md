@@ -4,7 +4,7 @@ Intellij IDEA 2022.2.1 破解
 
 2. 解压后，复制到 IDEA安装目录
 
-   ![image-20220819112157448](C:\Users\刘俊杰\AppData\Roaming\Typora\typora-user-images\image-20220819112157448.png)
+   ![](D:\test\ideaunlock\Intellij-IDEA-2022-unlock\image\image-20220819112157448.png)
 
 3. 打开 ja-netfilter 下的 scripts 目录, 先执行 uninstall-all-users.vbs，清空之前的注册信息
 
