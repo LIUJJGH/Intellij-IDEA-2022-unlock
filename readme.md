@@ -12,12 +12,12 @@ Intellij IDEA 2022.2.1 破解
 
 4. 然后执行 install-current-user.vbs, 安装
 
-   ![image-20220819112827240](C:\Users\刘俊杰\AppData\Roaming\Typora\typora-user-images\image-20220819112827240.png)
+   ![image-20220819112827240](https://github.com/LIUJJGH/Intellij-IDEA-2022-unlock/blob/30c4db622b95c5932e56bfdaad39233ea3608780/image/image-20220819112827240.png)
 
 5. 打开 IDEA -> Licenses -> License server 输入激活许可证
 
-   ![image-20220819113111953](C:\Users\刘俊杰\AppData\Roaming\Typora\typora-user-images\image-20220819113111953.png)
+   ![image-20220819113111953](https://github.com/LIUJJGH/Intellij-IDEA-2022-unlock/blob/30c4db622b95c5932e56bfdaad39233ea3608780/image/image-20220819113111953.png)
 
 6. 完成
 
-   ![image-20220819113220792](C:\Users\刘俊杰\AppData\Roaming\Typora\typora-user-images\image-20220819113220792.png)
+   ![image-20220819113220792](https://github.com/LIUJJGH/Intellij-IDEA-2022-unlock/blob/30c4db622b95c5932e56bfdaad39233ea3608780/image/image-20220819113220792.png)
