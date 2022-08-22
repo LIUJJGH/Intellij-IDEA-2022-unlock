@@ -4,7 +4,7 @@ Intellij IDEA 2022.2.1 破解
 
 2. 解压后，复制到 IDEA安装目录
 
-   ![](D:\test\ideaunlock\Intellij-IDEA-2022-unlock\image\image-20220819112157448.png)
+   ![](https://github.com/LIUJJGH/Intellij-IDEA-2022-unlock/blob/8ba4486f231b90bfc86682f3560a8b6f3668b1c8/image/image-20220819112157448.png)
 
 3. 打开 ja-netfilter 下的 scripts 目录, 先执行 uninstall-all-users.vbs，清空之前的注册信息
 
