@@ -8,7 +8,7 @@ Intellij IDEA 2022.2.1 破解
 
 3. 打开 ja-netfilter 下的 scripts 目录, 先执行 uninstall-all-users.vbs，清空之前的注册信息
 
-   ![image-20220819112534916](C:\Users\刘俊杰\AppData\Roaming\Typora\typora-user-images\image-20220819112534916.png)
+   ![](https://github.com/LIUJJGH/Intellij-IDEA-2022-unlock/blob/cf3092a6ba390cd710234c12e54536e81ac6cd58/image/image-20220819112533278.png)
 
 4. 然后执行 install-current-user.vbs, 安装
 
